@@ -1,0 +1,32 @@
+# --- 1. SAMPAH PYTHON (Wajib Ignore) ---
+__pycache__/
+*.py[cod]
+
+# --- 2. SECURITY & ENV (HARGA MATI JANGAN DIUPLOAD) ---
+venv/
+env/
+.env
+.DS_Store
+
+# --- 3. IDE SETTINGS (Biar gak nyampah) ---
+.vscode/
+.idea/
+
+# --- 4. DATA LOGS & MEDIA ---
+# Kita ignore folder gambar hasil capture (privasi)
+data/images/*
+# TAPI kita izinkan file .gitkeep agar foldernya tetap ada di repo
+!data/images/.gitkeep
+
+# Kita IZINKAN dokumen SOP (karena ini dummy & dibutuhkan sistem)
+# Hapus tanda pagar di bawah ini jika ingin memblokir dokumen lain
+# data/documents/* # !data/documents/sop_k3.txt
+
+# Kita IZINKAN log dummy (biar Dashboard langsung ada isinya pas demo)
+# incident_log.csv
+
+# --- 5. MODEL AI ---
+# Karena file model <100MB, kita UPLOAD saja biar user senang.
+# Kalau nanti modelmu >100MB, baru baris ini diaktifkan:
+# models/*.pt
+# models/*.onnx

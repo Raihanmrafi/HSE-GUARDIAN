@@ -1,0 +1,25 @@
+DOKUMEN STANDAR OPERASIONAL PROSEDUR (SOP) K3 - PT. MEINDO ELANG INDAH
+Revisi: 2026.01
+
+BAB I: KEWAJIBAN ALAT PELINDUNG DIRI (APD)
+
+Pasal 1: Pelindung Kepala (Hardhat)
+1. Setiap personel yang memasuki area konstruksi, workshop, dan kilang WAJIB mengenakan Safety Helmet standar ANSI Z89.1.
+2. Warna helm menunjukkan jabatan: Putih (Engineer/Manajer), Kuning (Pekerja Umum), Merah (Safety Officer).
+3. Sanksi Pelanggaran:
+   - Kategori: PELANGGARAN BERAT (High Risk).
+   - Tindakan: Penghentian pekerjaan seketika (Stop Work Order).
+   - Administrasi: Penerbitan SP-1 dan pemotongan poin safety (50 poin).
+
+Pasal 2: Rompi Keselamatan (Safety Vest/High-Vis)
+1. Rompi dengan reflektor wajib digunakan 24 jam di seluruh area operasional.
+2. Tujuannya untuk memastikan visibilitas pekerja terhadap operator alat berat.
+3. Sanksi Pelanggaran:
+   - Kategori: PELANGGARAN SEDANG (Medium Risk).
+   - Tindakan: Teguran lisan dan pencatatan dalam Log Book Harian.
+   - Administrasi: Wajib mengikuti Safety Induction ulang.
+
+Pasal 3: Pelindung Pernapasan (Masker)
+1. Wajib digunakan di Area Confined Space, Pengelasan, dan Painting.
+2. Pelanggaran di Zona Gas Beracun dianggap KELALAIAN FATAL.
+3. Sanksi: Terminasi kontrak (PHK) jika dilakukan di Zona Merah.
